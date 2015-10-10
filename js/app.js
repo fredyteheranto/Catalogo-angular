@@ -6,7 +6,6 @@ app.controller('profesorCtrl', function () {
 });
 
 var noviaData = {
-
 	nombre: "Maria alejandra",
 	bio: "estudiante",
 	edad:  17,
